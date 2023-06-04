@@ -66,8 +66,6 @@ const templates = {
 };
 
 export default function decorate(block) {
-	document.querySelector("header").remove();
-	document.querySelector("footer").remove();
 
 	let clipboardData = "";
 	const cfg = readBlockConfig(block);
