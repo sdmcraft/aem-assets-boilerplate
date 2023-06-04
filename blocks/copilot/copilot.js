@@ -140,7 +140,7 @@ export default function decorate(block) {
 		//Call chat api
 		conversation.push({
 			role: 'user',
-			content: `Parse and return only the JSON representation for "Create ${promptStr}" without anything else`,
+			content: `Parse and return only the JSON representation for "${promptStr}" without anything else`,
 		  });
 		console.log("[copilot] Call chat api to parse prompt to JSON");
 		const response = await callAzureChatCompletionAPI(conversation);
