@@ -66,11 +66,9 @@ async function initiateSynonymChat() {
   const conversation = [];
 
   const firstPrompt = `
-  Whenever I say some synonym of "verbose" just replace it with "verbose".
-  For e.g. "wordy" becomes "verbose".
-  And whenever I say some synonym of "concise" just replace it with "concise".
-  For e.g. "brief" becomes "concise".
-  And give me one word answers only'
+  Consider concise_bucket = ["Succinct","Brief","Terse","Pithy","Compact","Short","Compendious","Laconic","Condensed","Abridged","Synoptic","Epigrammatic","Curt","Tersely","Clipped"]  
+  and   
+  verbose_bucket = ["Wordy","Long-winded","Prolix","Loquacious","Circumlocutory","Garrulous","Rambling","Verbose","Periphrastic","Pompous","Repetitive","Tautological","Rhetorical","Bombastic","Grandiloquent"]
   `;
   conversation.push({
     role: 'system',
