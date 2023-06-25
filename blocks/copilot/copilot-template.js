@@ -12,10 +12,11 @@ export default function template() {
         </div>
         <div class="preview-container">
             <div class="preview-stage">
-                <div class="placeholder-animation">
-                </div>
             </div>
-            <button id="copy-button">Copy to Clipboard</button>
+            <div class="preview-actions">
+                <button id="reset-button">Reset</button>
+                <button id="copy-button">Copy to Clipboard</button>
+            </div>
         </div>
     </div>
     `;

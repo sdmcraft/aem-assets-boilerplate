@@ -75,7 +75,7 @@
   overflow-y: scroll;
 }
 
-.block.copilot .preview-container .preview-stage .placeholder-animation {
+.block.copilot .preview-container .placeholder-animation {
   width: 100%;
   height: 100%;
   justify-content: center;
@@ -83,14 +83,9 @@
   background-image: url('https://i.pinimg.com/originals/ca/a4/44/caa44463bac0ceaf3e5b5a1a227cdce6.gif');
   background-size: cover;
   background-position: center;
-  display: none;
 }
 
-.block.copilot .preview-container .preview-stage .placeholder-animation.visible {
-  display: flex;
-}
-
-.block.copilot .preview-container #copy-button {
+.block.copilot .preview-container .preview-actions button {
   width: 300px;
   padding: 5px 10px;
   border-radius: 4px;

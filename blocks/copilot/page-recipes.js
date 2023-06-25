@@ -4,10 +4,10 @@ export default {
       { hero: { count: 1, text_size: 20 } },
     ],
     webpage: [
-      { hero: { count: 1, text_size: 20 } },
-      { cards: { count: 5, text_size: 30 } },
-      { columns: { count: 4, text_size: 50 } },
-      { carousel: { count: 4, text_size: 20 } },
+      { hero: { count: 1, text_size: 40 } },
+      { cards: { count: 4, text_size: 60 } },
+      { columns: { count: 2, text_size: 100 } },
+      { carousel: { count: 3, text_size: 40 } },
     ],
     poster: [
       { hero: { count: 1, text_size: 20 } },
@@ -49,7 +49,7 @@ export default {
     ],
     webpage: [
       { hero: { count: 1, text_size: 10 } },
-      { cards: { count: 3, text_size: 15 } },
+      { cards: { count: 4, text_size: 15 } },
       { columns: { count: 2, text_size: 20 } },
       { carousel: { count: 3, text_size: 10 } },
     ],
