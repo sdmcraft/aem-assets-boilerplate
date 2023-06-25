@@ -101,31 +101,31 @@ const preGeneratedSequence = [
       <td>
         <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/c1ce1d1f-2fa0-4a71-8dfa-0946eb85f374.jpeg?se=2023-11-22T08%3A18%3A34Z&sp=r&sv=2022-11-02&sr=b&sig=%2B1L9HO8cHx3%2BF8UQw7awhMVWwlPzVzIJug%2BLUu/Fzrw%3D width="200" height="300">
       </td>
-      <td>Rajasthan has numerous forts, including Amer Fort, Mehrangarh Fort, and Jaisalmer Fort, showcasing the state's rich history and architecture.</td>
+      <td>Rajasthan, a state in India, boasts a multitude of impressive forts that vividly reflect its rich history and architectural heritage. Among these remarkable fortresses are Amer Fort, Mehrangarh Fort, and Jaisalmer Fort, each showcasing its unique charm and historical significance.</td>
     </tr>
     <tr>
       <td>
         <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/56842788-d149-4d3d-a35c-050f7ad6fafe.jpeg?se=2023-11-22T08%3A18%3A45Z&sp=r&sv=2022-11-02&sr=b&sig=928J4IQx4PGby/xT%2Bci%2Bt9v9Ri%2BOEVOe%2BioKeum/zjA%3D width="200" height="300">
       </td>
-      <td>Rajasthan has many impressive forts, including Amer Fort, Mehrangarh Fort, and Jaisalmer Fort, that showcase the state's rich history and architecture.</td>
+      <td>The enchanting state of Rajasthan in India is renowned for its wealth of majestic forts, which serve as iconic landmarks representing the grandeur of its history and architectural brilliance. Among the multitude of awe-inspiring forts that Rajasthan proudly possesses, three prominent ones stand out: Amer Fort, Mehrangarh Fort, and Jaisalmer Fort. These remarkable citadels not only epitomize the architectural marvels of their time but also offer captivating glimpses into the vibrant past of the region.</td>
     </tr>
     <tr>
       <td>
         <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/0ce6ffbb-636b-4820-a045-b22ea2cf42ba.jpeg?se=2023-11-22T08%3A18%3A58Z&sp=r&sv=2022-11-02&sr=b&sig=uV8iMIiCerqNf4g5H9An/XOABuhnE3Jn8N8ljtB76/w%3D width="200" height="300">
       </td>
-      <td>Rajasthan has over 200 forts, including the UNESCO World Heritage Site of Chittorgarh Fort, the largest fort in India.</td>
+      <td>Rajasthan, the land of kings and legends, boasts an astonishing collection of more than 200 forts, each one a testament to the state's regal history and architectural opulence. Among these impressive fortresses, the Chittorgarh Fort holds a prominent position, recognized as a UNESCO World Heritage Site and celebrated as the largest fort in India.</td>
     </tr>
     <tr>
       <td>
         <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/1567f9d6-7225-47b7-84b2-94febbb3b4c1.jpeg?se=2023-11-22T08%3A19%3A10Z&sp=r&sv=2022-11-02&sr=b&sig=zLDpCtANoRHZbtwH7VSGjlRzKyyBDwWJR4Qknd7GW3I%3D width="200" height="300">
       </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, rich history, and stunning views of the surrounding landscape.</td>
+      <td>The forts of Rajasthan, true marvels of architectural finesse, stand as testaments to the creative brilliance and engineering prowess of the eras gone by. With their intricately carved facades, ornate embellishments, and elaborate interiors, these forts showcase the artistic mastery and attention to detail that prevailed during their construction. From the delicate jharokhas (balconies) and filigree work to the grand courtyards and majestic gateways, every nook and cranny reflects the skillful craftsmanship of the artisans who crafted them.</td>
     </tr>
     <tr>
       <td>
         <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/1900bea7-6390-4947-9c7d-9648ea02edf1.jpeg?se=2023-11-22T08%3A19%3A23Z&sp=r&sv=2022-11-02&sr=b&sig=1yPtJJV1bT9Nj5dbRlIwnZgtFq4IuahAPyEUq58Fm/U%3D width="200" height="300">
       </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, rich history, and stunning views of the surrounding landscape.</td>
+      <td>The forts scattered across Rajasthan boast an architectural finesse that leaves visitors awe-struck. These architectural marvels are adorned with intricate carvings, delicate jali work (lattice screens), ornamental motifs, and meticulously crafted facades. The fusion of Rajput, Mughal, and other architectural styles creates a mesmerizing blend that showcases the artistic brilliance of the bygone era. From the soaring minarets to the grand palaces, from the elaborate courtyards to the opulent interiors, every detail within these forts speaks volumes about the skilled craftsmanship and visionary minds that brought them to life.</td>
     </tr>
   </table>
   <hr>
@@ -160,7 +160,7 @@ const preGeneratedSequence = [
       <td>
         <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/b83fbbcd-52b7-448b-8ce2-6140dc69061b.jpeg?se=2023-11-22T08%3A56%3A05Z&sp=r&sv=2022-11-02&sr=b&sig=opjQ2vEiqlLFRXxtFVn6wwbLFt/aLWjPIaL/RyLQAJw%3D width="200" height="300">
       </td>
-      <td>One unique feature of forts in Rajasthan is the use of "jharokhas" or overhanging balconies with intricate latticework. These were used by the royal women to observe the activities in the courtyard without being seen by outsiders. The jharokhas also provided ventilation and natural light to the interiors of the fort. Some of the most famous forts in Rajasthan with beautiful jharokhas include the Amber Fort, Mehrangarh Fort, and the City Palace in Jaipur.</td>
+      <td>Unique Rajasthan forts feature jharokhas—overhanging balconies with intricate latticework—used by royal women for discreet observation, ventilation, and lighting. Notable examples: Amber Fort, Mehrangarh Fort, City Palace.</td>
     </tr>
   </table>
   <hr>
@@ -188,7 +188,7 @@ const preGeneratedSequence = [
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/4cea5ae0-b6b8-4863-b71a-4fa0d89bc3d7.jpeg?se=2023-11-22T08%3A52%3A12Z&sp=r&sv=2022-11-02&sr=b&sig=4pqStTtyXg1wjFBoIE73RbkS5m6F2gmOzaZiBABEjh4%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/82a79f78-37b4-4689-9074-a12eebdc54a0.jpeg?se=2023-11-22T12%3A15%3A27Z&sp=r&sv=2022-11-02&sr=b&sig=nG8vwthuAtjRgmnU368z0p1cySPA0AEQIRjlzhSmtDM%3D width="200" height="300">
       </td>
       <td>Historic, majestic, grand, fortified, regal, impressive, ornate, opulent, iconic.</td>
     </tr>
@@ -207,6 +207,7 @@ const preGeneratedSequence = [
   </table>
   <hr>
   `,
+
   `
   <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/1d3e9ec9-2474-4784-a9ac-21245df51c1d.jpeg?se=2023-11-22T08%3A37%3A04Z&sp=r&sv=2022-11-02&sr=b&sig=YVPE6ky9jP3BEY56AYGldKFRdyBhj58LrYulDjj2fO0%3D width="200" height="300">
 <h1>"Rajasthan forts showcase exquisite architecture and rich cultural heritage."</h1>

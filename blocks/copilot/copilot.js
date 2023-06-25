@@ -10,9 +10,21 @@ import { preGeneratedSequence } from './pre-generated.js';
 let promptCounter = -1;
 
 // Function to append a message to the chat history
-function appendMessage(message, chatHistory) {
+function appendMessage(message, sender, chatHistory) {
   const messageElement = document.createElement('div');
-  messageElement.textContent = message;
+  const senderSpan = document.createElement('span');
+  senderSpan.classList.add('sender');
+  if (sender.toLowerCase() === 'copilot') {
+    senderSpan.innerHTML = '<i class="fa-solid fa-robot" style="color: #28c908;"></i> : ';
+  } else {
+    senderSpan.innerHTML = 'You : ';
+  }
+
+  const messageSpan = document.createElement('span');
+  messageSpan.classList.add('message');
+  messageSpan.textContent = message;
+  messageElement.appendChild(senderSpan);
+  messageElement.appendChild(messageSpan);
   chatHistory.appendChild(messageElement);
   chatHistory.scrollTop = chatHistory.scrollHeight;
 }
@@ -22,9 +34,9 @@ async function sendUserMessage(messageInput, chatHistory) {
   const message = messageInput.value.trim();
 
   if (message !== '') {
-    appendMessage(`You: ${message}`, chatHistory);
+    appendMessage(message, 'You', chatHistory);
     await wait(500);
-    appendMessage('Copilot: Aye Aye Captain...', chatHistory);
+    appendMessage('Aye Aye Captain...', 'Copilot', chatHistory);
     // Handle the message (e.g., send it to an AI model for processing)
     // ... Your code here ...
     messageInput.value = '';
@@ -35,8 +47,19 @@ async function sendUserMessage(messageInput, chatHistory) {
 function sendSystemMessage(messageInput, chatHistory) {
   const message = messageInput.trim();
   if (message !== '') {
-    appendMessage(`Copilot: ${message}`, chatHistory);
+    appendMessage(message, 'Copilot', chatHistory);
   }
+}
+
+function showToast(message) {
+  const toastContainer = document.getElementById('toast-container');
+  toastContainer.textContent = message;
+  toastContainer.style.display = 'block';
+
+  // Automatically hide the toast after a certain duration
+  setTimeout(() => {
+    toastContainer.style.display = 'none';
+  }, 3000); // Adjust the duration (in milliseconds) as needed
 }
 
 export default function decorate(block) {
@@ -44,7 +67,6 @@ export default function decorate(block) {
   linkTag.setAttribute('rel', 'stylesheet');
   linkTag.setAttribute('href', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
   document.head.appendChild(linkTag);
-  const clipboardData = '';
   const cfg = readBlockConfig(block);
   let prompt = '';
   block.innerHTML = template();
@@ -82,6 +104,13 @@ export default function decorate(block) {
     console.log(`[copilot]${generatedBlocksMarkup}`);
     previewStage.innerHTML = generatedBlocksMarkup;
     sendSystemMessage('Done! Please take a look.', chatHistory);
+  });
+
+  copyButton.addEventListener('click', async () => {
+    const clipboardData = new Blob([previewStage.innerHTML], { type: 'text/html' });
+    const data = [new ClipboardItem({ [clipboardData.type]: clipboardData })];
+    navigator.clipboard.write(data);
+    showToast('Copied to clipboard!');
   });
 
   resetButton.addEventListener('click', () => {

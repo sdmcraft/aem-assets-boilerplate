@@ -6,6 +6,10 @@
   max-width: unset;
 }
 
+.block.copilot .banner {
+  text-align: center;
+}
+
 .block.copilot h3,
 .block.copilot h6 {
   text-align: center;
@@ -33,6 +37,11 @@
   padding: 10px;
   border: 1px solid #ccc;
   background-color: #f9f9f9;
+  font-size: 20px;
+}
+
+.block.copilot .chat-container .chat-history .sender {
+  font-weight: bold;
 }
 
 .block.copilot .chat-container .input-container {
@@ -48,7 +57,10 @@
 }
 
 .block.copilot .chat-container #send-button {
-  padding: 5px 10px;
+  height: 35px;
+  width: 35px;
+  padding: unset;
+  margin: unset;
   border-radius: 4px;
   border: none;
   color: #fff;
@@ -85,12 +97,29 @@
   background-position: center;
 }
 
+.block.copilot .preview-container .preview-actions {
+  display: flex;
+  flex-direction: row;
+}
+
 .block.copilot .preview-container .preview-actions button {
   width: 300px;
-  padding: 5px 10px;
+  padding: 5px;
+  margin: 5px;
   border-radius: 4px;
   border: none;
   color: #fff;
   cursor: pointer;
   overflow: unset;
+}
+
+.block.copilot #toast-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  display: none;
 }
