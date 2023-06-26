@@ -1,7 +1,11 @@
 export default function template() {
   return `
-    <h3>Spellweaver</h3>
-    <h6>(A Franklin Copilot)</h6>
+    <div class="banner">
+        <h3>Spellweaver</h3>
+        <span><i class="fa-solid fa-flask-vial" style="color: #a20b0b;"></i></span>
+        <em>A Franklin Copilot</em>
+        <span><i class="fa-solid fa-flask-vial" style="color: #a20b0b;"></i></span>
+    </div>
     <div class="content-wrapper">
         <div class="chat-container">
             <div id="chat-history" class="chat-history"></div>
@@ -12,11 +16,13 @@ export default function template() {
         </div>
         <div class="preview-container">
             <div class="preview-stage">
-                <div class="placeholder-animation">
-                </div>
             </div>
-            <button id="copy-button">Copy to Clipboard</button>
+            <div class="preview-actions">
+                <button id="copy-button">Copy to Clipboard</button>
+                <button id="reset-button">Reset</button>
+            </div>
         </div>
     </div>
+    <div id="toast-container"></div>
     `;
 }

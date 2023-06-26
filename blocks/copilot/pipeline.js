@@ -4,10 +4,27 @@ import pageRecipes from './page-recipes.js';
 import { generate } from './content-generator.js';
 import { blocksRenderers } from './blocks-renderers.js';
 
-async function executePrompt(prompt, cfg) {
+let conversation;
+let synonymConversation;
+
+async function warmup() {
   console.log('[pipeline] Initiate chat with Azure OpenAI to train it to parse prompt to JSON');
-  const conversation = await initiateChat();
+  conversation = await initiateChat();
   console.log(`[pipeline] Azure OpenAI chat initiated ${JSON.stringify(conversation, null, 2)}`);
+
+  // Prepare synonym chat api
+  console.log('[pipeline] Initiate Synonym chat with Azure OpenAI to train it to get text_adjective in prescribed vocab');
+  synonymConversation = await initiateSynonymChat();
+  console.log(`[pipeline] Synonym chat initiated ${JSON.stringify(synonymConversation, null, 2)}`);
+}
+
+async function executePrompt(prompt, cfg) {
+  if (!conversation || !synonymConversation) {
+    console.log('[pipeline] Warmup Azure OpenAI chat');
+    await warmup();
+  } else {
+    console.log('[pipeline] Azure OpenAI chat already warmed-up');
+  }
 
   conversation.push({
     role: 'user',
@@ -20,15 +37,10 @@ async function executePrompt(prompt, cfg) {
 
   let textAdjective = 'default';
   if (respContent.text_adjective && respContent.text_adjective !== null) {
-    // Prepare synonym chat api
-    console.log('[pipeline] Initiate Synonym chat with Azure OpenAI to train it to get text_adjective in prescribed vocab');
-    const synonymConversation = await initiateSynonymChat();
-    console.log(`[pipeline] Synonym chat initiated ${JSON.stringify(synonymConversation, null, 2)}`);
-
     // Call chat api
     synonymConversation.push({
       role: 'user',
-      content: `Which bucket does "${respContent.textAdjective} text" belong to? Answer in one word only.`,
+      content: `Which bucket does "${respContent.text_adjective} text" belong to? Answer in one word only.`,
     });
 
     response = await callAzureChatCompletionAPI(synonymConversation);
@@ -40,6 +52,8 @@ async function executePrompt(prompt, cfg) {
       textAdjective = 'verbose';
     } else if (textAdjective.toLowerCase().includes('concise')) {
       textAdjective = 'concise';
+    } else {
+      textAdjective = 'default';
     }
   }
   respContent.text_adjective = textAdjective;
