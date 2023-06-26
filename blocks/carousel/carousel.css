@@ -17,12 +17,15 @@
 
 .carousel-slide > div {
   position: absolute;
-  top: 50%;
+  top: 80%;
   left: 50%;
   color: white;
   transform: translate(-50%, -50%);
   font-size: 32px;
   font-weight: bold;
+  background-color: black;
+  opacity: 0.6;
+  font-family: "Dancing Script", cursive;
 }
 
 .carousel-prev,
