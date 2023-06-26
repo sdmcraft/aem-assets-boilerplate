@@ -238,7 +238,7 @@ const preGeneratedSequence = [
     <td>
       <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/bfa81fef-7b0a-4f8a-8a61-13ecd46be97a.jpeg?se=2023-11-22T08%3A36%3A50Z&sp=r&sv=2022-11-02&sr=b&sig=rW4zlukK8VrY/ej7xIPnMYKw1%2BxQ037uuH5sK%2B6sb5s%3D width="200" height="300">
     </td>
-    <td>One unique feature of the forts in Rajasthan is their intricate and detailed architecture, which often incorporates elements of both Hindu and Islamic styles. Additionally, many of the forts were built on hilltops or in strategic locations, making them difficult to conquer and providing excellent views of the surrounding landscape. Some of the forts also have underground tunnels and secret passages, adding to their intrigue and mystique.</td>
+    <td>One unique feature of the forts in Rajasthan is their intricate and detailed architecture, which often incorporates elements of both Hindu and Islamic styles.</td>
   </tr>
 </table>
 <hr>
