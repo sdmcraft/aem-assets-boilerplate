@@ -1,7 +1,214 @@
 const preGeneratedSequence = [
   `
-  <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/d749813a-b535-46c0-aae3-2dbfc52d67a9.jpeg?se=2023-11-22T08%3A18%3A20Z&sp=r&sv=2022-11-02&sr=b&sig=vovfjmwQYgYnUN9hnqNzV/bOMQfVTU5vuae0odCQn7I%3D width="200" height="300">
-  <h1>"Rajasthan forts showcase intricate architecture and rich history."</h1>
+  <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/bb7e7138-67f5-4639-8230-891ba323fbcb.jpeg?se=2023-11-25T08%3A16%3A15Z&sp=r&sv=2022-11-02&sr=b&sig=yJYzDHRItmVK45ojUjKIiybyNm7GoQoYndWr6Crm6SE%3D width="200" height="300">
+  <h1>Nature's therapy for the mind and body.</h1>
+  <hr>
+  <table border="1">
+     <tr>
+        <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">cards</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/ff9fb302-6f6b-47c1-aa17-7cb5d1849566.jpeg?se=2023-11-25T07%3A55%3A35Z&sp=r&sv=2022-11-02&sr=b&sig=aUqQLCkEpLMiZzbRcJlTnBW9MqTsa/DbvUSy7ZbaJX0%3D width="200" height="300">
+        </td>
+        <td>Hiking is a great way to explore nature and get some exercise. It can be done alone or with friends and family. Hiking trails can range from easy to difficult, and can take you through forests, mountains, and even deserts. It's important to wear appropriate clothing and footwear, bring plenty of water and snacks, and be aware of your surroundings. Hiking can be a fun and rewarding experience for people of all ages and fitness levels.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/eb402338-0199-4437-9dde-e09e53b286f0.jpeg?se=2023-11-25T07%3A56%3A54Z&sp=r&sv=2022-11-02&sr=b&sig=YD0dskGKfOKWrDDpVQJmXI2Nilm2xyBxxo6ygdKb2Qc%3D width="200" height="300">
+        </td>
+        <td>Hiking can improve your mental health! Studies have shown that spending time in nature can reduce symptoms of anxiety and depression, boost mood, and improve cognitive function. So not only is hiking a great way to stay physically active, it can also benefit your mental well-being.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/7166177f-4ac2-41a0-a638-adf5a65349b8.jpeg?se=2023-11-25T07%3A57%3A13Z&sp=r&sv=2022-11-02&sr=b&sig=Tlzf27mg81S%2BIlMHXKT%2BoqhR/f3krW1C6/oe0e0%2B6ww%3D width="200" height="300">
+        </td>
+        <td>Hiking allows you to disconnect from the hustle and bustle of daily life and connect with nature. It's a chance to challenge yourself physically and mentally, while also experiencing breathtaking views and discovering hidden gems. Each hike is a unique adventure, with its own set of obstacles and rewards. Whether you're a seasoned hiker or a beginner, there's always something new to discover on the trail.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/3f83cba3-f8b7-4074-a51c-c41398eb5718.jpeg?se=2023-11-25T07%3A57%3A28Z&sp=r&sv=2022-11-02&sr=b&sig=//wcX3mc7BYpkhoY/LJ2V/3Oj/ABWBhVnP0EERDw%2BOE%3D width="200" height="300">
+        </td>
+        <td>Hiking allows you to disconnect from the hustle and bustle of daily life and connect with nature. It's a chance to challenge yourself physically and mentally, while also experiencing breathtaking views and discovering hidden gems. Each hike is a unique adventure, with its own set of obstacles and rewards. Whether you're a seasoned hiker or a beginner, there's always something new to discover on the trail.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/459d6d9d-fb78-4292-b72e-85dae33d0647.jpeg?se=2023-11-25T07%3A57%3A45Z&sp=r&sv=2022-11-02&sr=b&sig=6riKPCKWp9E/448lgpcur5xnF%2BtTkMdJFS65qnwXif4%3D width="200" height="300">
+        </td>
+        <td>Hiking allows you to disconnect from the hustle and bustle of daily life and connect with nature. It's a chance to challenge yourself physically and mentally, while also experiencing breathtaking views and discovering hidden gems. Each hike is a unique adventure, with its own set of obstacles and rewards. Whether you're a seasoned hiker or a beginner, there's always something new to discover on the trail.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/e637fc00-0d13-4425-9f67-3f711c8e6abe.jpeg?se=2023-11-25T07%3A58%3A35Z&sp=r&sv=2022-11-02&sr=b&sig=R4f8n/uZ9HYJCAlvnzpnEeDl/tMm/Bvnca7Som7TVH8%3D width="200" height="300">
+        </td>
+        <td>Hiking is a unique experience that allows you to connect with nature and explore the great outdoors. It's a chance to challenge yourself physically and mentally, while also enjoying breathtaking views and discovering hidden gems along the way. Whether you're hiking solo or with a group, it's a chance to disconnect from the hustle and bustle of everyday life and immerse yourself in the beauty of the natural world. So grab your hiking boots and hit the trails – you never know what adventures await!</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/349bc7b1-3e5c-455f-949c-63d2b52d4386.jpeg?se=2023-11-25T07%3A58%3A53Z&sp=r&sv=2022-11-02&sr=b&sig=/7ZrpQI6qtW615EkfLXsFfdP3hxzyAAjr/DIIlg6vX8%3D width="200" height="300">
+        </td>
+        <td>Hiking is a great way to explore nature and get some exercise. It can be done alone or with friends and family. Hiking trails can range from easy to difficult, and can take you through forests, mountains, and even deserts. It's important to wear appropriate clothing and footwear, bring plenty of water and snacks, and be aware of your surroundings. Hiking can be a fun and rewarding experience for people of all ages and fitness levels.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/c136fad1-2e58-4fbd-bead-02e9428afb63.jpeg?se=2023-11-25T07%3A59%3A11Z&sp=r&sv=2022-11-02&sr=b&sig=9d6tnBH5MvowHvGmcA5YGsNjOTvlUEKFGPtsy7BIEnM%3D width="200" height="300">
+        </td>
+        <td>Hiking allows you to disconnect from the hustle and bustle of daily life and connect with nature. It's a chance to challenge yourself physically and mentally, while also experiencing breathtaking views and discovering hidden gems. Each trail offers a unique experience, from the rugged terrain of mountains to the serene beauty of forests and lakes. Hiking is a journey of self-discovery and a reminder of the beauty and power of the natural world.</td>
+     </tr>
+  </table>
+  <hr>
+  <table border="1">
+     <tr>
+        <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">columns</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/46772b4f-ca3c-4db8-83c3-25ba293ca1fa.jpeg?se=2023-11-25T07%3A55%3A04Z&sp=r&sv=2022-11-02&sr=b&sig=kqH55HWjBpWF5IZXq5r9ViqewnVgYMumrz/kquPcoK8%3D width="200" height="300">
+        </td>
+        <td>Hiking is a unique experience that allows you to connect with nature and explore the great outdoors. Unlike other forms of exercise, hiking offers a sense of adventure and discovery as you navigate through rugged terrain, climb steep hills, and cross babbling streams. It's a chance to disconnect from the hustle and bustle of everyday life and immerse yourself in the beauty of the natural world. Whether you're hiking alone or with friends, the sense of accomplishment and satisfaction you feel when you reach your destination is unparalleled. Hiking is a truly unique way to challenge yourself physically and mentally while enjoying the beauty of the great outdoors.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/64ec88c2-a2b3-45d2-ad87-62c511bf88b3.jpeg?se=2023-11-25T07%3A55%3A18Z&sp=r&sv=2022-11-02&sr=b&sig=95aGnCkeId/HiLgZrytJw/TYU5Gmn%2BTth3YKJppmCBI%3D width="200" height="300">
+        </td>
+        <td>Hiking is a unique experience that allows you to connect with nature and explore the great outdoors. Unlike other forms of exercise, hiking offers a sense of adventure and discovery as you navigate through rugged terrain, climb steep hills, and cross babbling streams. It's a chance to disconnect from the hustle and bustle of everyday life and immerse yourself in the beauty of the natural world. Whether you're hiking alone or with friends, the sense of accomplishment and satisfaction you feel when you reach your destination is unparalleled. Hiking is a truly unique way to challenge yourself physically and mentally while enjoying the beauty of the great outdoors.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/d953f5e5-8018-4907-a99c-d3944cb692f1.jpeg?se=2023-11-25T07%3A55%3A32Z&sp=r&sv=2022-11-02&sr=b&sig=62uYIoPt45kP%2BC3mcEdxL5h19OqOzzjKNC/9/KqAxD0%3D width="200" height="300">
+        </td>
+        <td>Hiking is a unique experience that allows you to connect with nature and explore the great outdoors. Unlike other forms of exercise, hiking offers a sense of adventure and discovery as you navigate through rugged terrain, climb steep hills, and cross babbling streams. It's a chance to disconnect from the hustle and bustle of everyday life and immerse yourself in the beauty of the natural world. Whether you're hiking alone or with friends, the sense of accomplishment and satisfaction you feel when you reach your destination is unparalleled. Hiking is a truly unique way to challenge yourself physically and mentally while enjoying the beauty of the great outdoors.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/0e944350-4798-4a12-8a8c-47445a534677.jpeg?se=2023-11-25T07%3A55%3A47Z&sp=r&sv=2022-11-02&sr=b&sig=LfNMKBHAUYP5%2B7GbiuDFPiBL1d390/JJA28uEVPAaAQ%3D width="200" height="300">
+        </td>
+        <td>Did you know that hiking can actually improve your brain function? Studies have shown that spending time in nature, such as hiking, can improve cognitive function, boost creativity, and reduce symptoms of anxiety and depression. Additionally, hiking can also improve your physical health by reducing the risk of heart disease, improving balance and coordination, and strengthening muscles and bones. So not only is hiking a great way to explore the outdoors, but it can also benefit your overall well-being.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/dfc69c52-dce0-438b-a0cf-b68a1dd33996.jpeg?se=2023-11-25T07%3A56%3A02Z&sp=r&sv=2022-11-02&sr=b&sig=sKvbx3cG4LJUXi2muJjB/EkklG4W6fGXJ%2B4rAr7TWqI%3D width="200" height="300">
+        </td>
+        <td>Hiking is a unique experience that allows you to connect with nature and explore the great outdoors. Unlike other forms of exercise, hiking offers a sense of adventure and discovery as you navigate through rugged terrain, climb steep hills, and cross babbling streams. It's a chance to disconnect from the hustle and bustle of everyday life and immerse yourself in the beauty of the natural world. Whether you're hiking alone or with friends, the sense of accomplishment and satisfaction you feel when you reach your destination is unparalleled. Hiking is a truly unique way to challenge yourself physically and mentally while enjoying the beauty of the great outdoors.</td>
+     </tr>
+  </table>
+  <hr>
+  <table border="1">
+     <tr>
+        <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">carousel</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/c86bab98-58cc-4903-9c77-d95253035b67.jpeg?se=2023-11-25T07%3A56%3A19Z&sp=r&sv=2022-11-02&sr=b&sig=W0KxGC0rjGGcjGslNKwxlpuocCLCemMZoMzZGUlwJhU%3D width="200" height="300">
+        </td>
+        <td>Hiking is a great way to explore nature, get exercise, and clear your mind.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/469cba4e-dba4-4ea7-9036-2548e325a474.jpeg?se=2023-11-25T07%3A57%3A38Z&sp=r&sv=2022-11-02&sr=b&sig=oHNLme8KLgnh5qKpXbquCwJat22lS35P5Ys2%2BPkUqWQ%3D width="200" height="300">
+        </td>
+        <td>Did you know that hiking can actually improve your brain function? Studies have shown that spending time in nature, such as hiking, can improve cognitive function, boost creativity, and reduce symptoms of anxiety and depression. Additionally, hiking can also improve your physical health by reducing the risk of heart disease, improving balance and coordination, and strengthening muscles and bones. So not only is hiking a great way to explore the outdoors, but it can also benefit your overall well-being.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/c6168ac3-0530-4cd6-a69e-e08d397544da.jpeg?se=2023-11-25T07%3A57%3A52Z&sp=r&sv=2022-11-02&sr=b&sig=UkReUg8XW7rBlzN5CL2XZ46F/Iiyb7M9zKP1BJqO0k4%3D width="200" height="300">
+        </td>
+        <td>Did you know that hiking can actually improve your brain function? Studies have shown that spending time in nature, such as hiking, can improve cognitive function, boost creativity, and reduce symptoms of anxiety and depression. Additionally, hiking can also improve your physical health by reducing the risk of heart disease, improving balance and coordination, and strengthening muscles and bones. So not only is hiking a great way to explore the outdoors, but it can also benefit your overall well-being.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/a1056d79-f8e1-40f5-bdf5-26e8e516841b.jpeg?se=2023-11-25T07%3A58%3A10Z&sp=r&sv=2022-11-02&sr=b&sig=DdG8e1B804uUCEaPht0kLHoPkim/r3R59aDYY3ReFe0%3D width="200" height="300">
+        </td>
+        <td>Hiking allows you to disconnect from technology and connect with nature, providing a sense of peace and tranquility.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/40ff92a3-4bbc-401b-8728-1befa78a13cd.jpeg?se=2023-11-25T07%3A58%3A34Z&sp=r&sv=2022-11-02&sr=b&sig=dgKJ52w5ZXQYDgl1sniiiO0PDBCA7LAImQ5JoJ7qrK4%3D width="200" height="300">
+        </td>
+        <td>Hiking can improve mental health by reducing stress, anxiety, and depression, according to recent studies.</td>
+     </tr>
+  </table>
+  <hr>
+  `,
+  `
+  <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/bb7e7138-67f5-4639-8230-891ba323fbcb.jpeg?se=2023-11-25T08%3A16%3A15Z&sp=r&sv=2022-11-02&sr=b&sig=yJYzDHRItmVK45ojUjKIiybyNm7GoQoYndWr6Crm6SE%3D width="200" height="300">
+  <h1>Nature's therapy for the mind and body.</h1>
+  <hr>
+  <table border="1">
+     <tr>
+        <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">cards</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/8e61a65f-7218-4819-bd64-0b04e884deec.jpeg?se=2023-11-25T08%3A17%3A29Z&sp=r&sv=2022-11-02&sr=b&sig=zdYUuXwbK/bfMCalwRIqDrIW%2BnbgAmEBZadlP5VJDVM%3D width="200" height="300">
+        </td>
+        <td>Hiking can improve mental health and reduce stress levels, according to recent studies.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/2a807439-75a8-4453-a1e6-816f4d4ee56b.jpeg?se=2023-11-25T08%3A17%3A42Z&sp=r&sv=2022-11-02&sr=b&sig=FiYZZ02D0qHsUW27bmcQOdpi%2Bvhbk%2BBMNMntMaH2p8w%3D width="200" height="300">
+        </td>
+        <td>Hiking can improve mental health and reduce stress levels, according to recent studies.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/d74bb148-70bc-4521-85c1-7620ac1d4244.jpeg?se=2023-11-25T08%3A17%3A58Z&sp=r&sv=2022-11-02&sr=b&sig=7LS2%2BOA5WPnJ2vYitLNwUHWUohfOipEHHpFFLWLlGec%3D width="200" height="300">
+        </td>
+        <td>"Discovering hidden gems in nature while challenging your body and mind."</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/f3ad2bb4-75a9-42b7-8b2d-665566d62ce9.jpeg?se=2023-11-25T08%3A18%3A10Z&sp=r&sv=2022-11-02&sr=b&sig=YhURRz2Uw5mR9g2t/6H99ozdtVIob3cWU0Coxx2Nvjw%3D width="200" height="300">
+        </td>
+        <td>Hiking can improve mental health and reduce stress levels, according to recent studies.</td>
+     </tr>
+  </table>
+  <hr>
+  <table border="1">
+     <tr>
+        <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">columns</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/53b5d524-64ee-47af-aa66-e0b14bacbecb.jpeg?se=2023-11-25T08%3A16%3A19Z&sp=r&sv=2022-11-02&sr=b&sig=SPNRKQ%2BxEdYNe8Gr9ghv1oIkt/pYkfI51QWWOhom1W8%3D width="200" height="300">
+        </td>
+        <td>Hiking allows you to disconnect from technology and connect with nature, providing a sense of peace and tranquility.</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/1d89bbb8-7f82-4fa6-9e56-89181d2a7155.jpeg?se=2023-11-25T08%3A16%3A36Z&sp=r&sv=2022-11-02&sr=b&sig=JQiG85eZtpBdLe7cS2oaDyZwBIklAeU4qFEgnUgWd30%3D width="200" height="300">
+        </td>
+        <td>Hiking allows you to disconnect from technology and connect with nature, providing a sense of peace and tranquility.</td>
+     </tr>
+  </table>
+  <hr>
+  <table border="1">
+     <tr>
+        <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">carousel</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/a4ef05b0-ee17-47a9-b7e8-faee2c815803.jpeg?se=2023-11-25T08%3A16%3A29Z&sp=r&sv=2022-11-02&sr=b&sig=v/phn503KQOHu38HlqFblPNIZmq2kIEWFpYzSAJ3SKc%3D width="200" height="300">
+        </td>
+        <td>"Nature's gym with breathtaking views and peaceful solitude."</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/87ce15ca-f8b0-467e-97dd-0e356c2bb88b.jpeg?se=2023-11-25T08%3A16%3A42Z&sp=r&sv=2022-11-02&sr=b&sig=L582GmUjRuRnutp73t35kCBqCe8gQv1yG5SyqyMW8/0%3D width="200" height="300">
+        </td>
+        <td>"Nature's gym with breathtaking views and peaceful solitude."</td>
+     </tr>
+     <tr>
+        <td>
+           <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/7b0a3cfb-72a2-4e55-bea7-fc5e0d776bc7.jpeg?se=2023-11-25T08%3A16%3A54Z&sp=r&sv=2022-11-02&sr=b&sig=Z/zXlgVfmCOR5k/tI4go9G5grKrCPGVsrMWtC%2BoVaFA%3D width="200" height="300">
+        </td>
+        <td>"Nature's gym with breathtaking views and peaceful solitude."</td>
+     </tr>
+  </table>
+  <hr>`,
+  `
+  <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/cff259c4-5221-40f9-8e00-3210bdc12598.jpeg?se=2023-11-25T11%3A09%3A26Z&sp=r&sv=2022-11-02&sr=b&sig=w2V7gY4xq1W2mFp5nhMqgCcSsyYKycbIxGXLXNgx5hA%3D width="200" height="300">
+  <h1>"Nature's therapy, free and accessible to all."</h1>
   <hr>
   <table border="1">
     <tr>
@@ -9,51 +216,27 @@ const preGeneratedSequence = [
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/1710e675-a0b2-42f0-8de7-6622bafe68d4.jpeg?se=2023-11-22T08%3A21%3A13Z&sp=r&sv=2022-11-02&sr=b&sig=PTw6J6ZUkV22BWD/bcdhwdxJ%2BtSdIZkkqWPFva%2BRK4c%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/048cbe10-4333-4dbc-a70f-6962d36f9098.jpeg?se=2023-11-25T11%3A09%3A35Z&sp=r&sv=2022-11-02&sr=b&sig=j8ZWvSwt%2BHFPlWRw8mB2GADvXSpmOG%2BWL47jmP8gc2k%3D width="200" height="300">
       </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, rich history, and strategic locations. They were built by Rajput rulers to protect their kingdoms from invaders. Each fort has a unique story to tell, with some being transformed into luxurious hotels and others still standing as a testament to the past. The forts are also known for their stunning views of the surrounding landscapes, making them a popular tourist destination.</td>
+      <td>Hiking is a great way to connect with nature and get some exercise.</td>
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/afeb2f07-7370-4a38-85ed-f89b599b31f3.jpeg?se=2023-11-22T08%3A21%3A28Z&sp=r&sv=2022-11-02&sr=b&sig=dhzmg1qoeD1mAP0PxgklMvdM59hICEMdwRajmAfmItw%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/8d0ff190-5b28-48fe-bae4-d767141df1cf.jpeg?se=2023-11-25T11%3A09%3A49Z&sp=r&sv=2022-11-02&sr=b&sig=c0%2BF6%2B92XXsO203WaFnTooZIK1Ha6BW7Dq31eXUFmMA%3D width="200" height="300">
       </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, stunning artwork, and strategic locations. What makes them unique is their ability to withstand attacks from enemies due to their thick walls, hidden passages, and cleverly designed defense mechanisms. Many of these forts have also been converted into luxurious hotels, offering visitors a chance to experience the royal lifestyle of Rajasthan's past rulers.</td>
+      <td>Hiking is a great way to connect with nature and get some exercise.</td>
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/21475636-af7a-42a2-80bd-2da4ca3ebd30.jpeg?se=2023-11-22T08%3A21%3A42Z&sp=r&sv=2022-11-02&sr=b&sig=f7rZ7zCR0D/64C/XCGjFNkase6nrtdOvIwQZyJ7aUXw%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/d25230a0-4237-47b8-a3b0-6c872f99876d.jpeg?se=2023-11-25T11%3A10%3A04Z&sp=r&sv=2022-11-02&sr=b&sig=zORe8O%2BuHsB%2BIy7NbwXf3EVh0Nc2XdCwj9qSef1J9uI%3D width="200" height="300">
       </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, rich history, and strategic locations. They were built to withstand attacks and provide protection to the ruling families. Many of these forts have now been converted into heritage hotels, offering visitors a chance to experience the royal lifestyle. The forts also showcase the unique blend of Rajput and Mughal architectural styles, making them a must-visit for history and architecture enthusiasts.</td>
+      <td>"Discovering hidden gems, breathtaking views, and inner strength with every step."</td>
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/766d8478-8308-4825-b053-215c532e844a.jpeg?se=2023-11-22T08%3A21%3A56Z&sp=r&sv=2022-11-02&sr=b&sig=1FE/S3P2%2BCXiWc7/TqB11Cm4vkYuhq8BFkHw8rsMoqY%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/706ac009-42c7-46a2-bb5d-595d9463645f.jpeg?se=2023-11-25T11%3A10%3A18Z&sp=r&sv=2022-11-02&sr=b&sig=5vpdLGxe9L36vEuGwil9y0NrkLiZIjxhw5WyAwtsa3k%3D width="200" height="300">
       </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, rich history, and strategic locations. They were built to withstand attacks and provide protection to the ruling families. Many of these forts have now been converted into heritage hotels, offering visitors a chance to experience the royal lifestyle. The forts also showcase the unique blend of Rajput and Mughal architectural styles, making them a must-visit for history and architecture enthusiasts.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/0fdfd68e-765a-4a6c-889a-bddf3f5509a5.jpeg?se=2023-11-22T08%3A22%3A12Z&sp=r&sv=2022-11-02&sr=b&sig=nlbVf6ehAlY9j4QEeBqfGsjyTARVKcgrusb5jMkfRXE%3D width="200" height="300">
-      </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, rich history, and strategic locations. They were built to withstand attacks and provide protection to the ruling families. Many of these forts have now been converted into heritage hotels, offering visitors a chance to experience the royal lifestyle. The forts also showcase the unique blend of Rajput and Mughal architectural styles, making them a must-visit for history and architecture enthusiasts.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/baf54416-17d1-41c1-9f39-c3eb4434ad96.jpeg?se=2023-11-22T08%3A22%3A27Z&sp=r&sv=2022-11-02&sr=b&sig=I9gWqAY8iovR4vnQB2LcywdFiHf3ZiQn6z6%2BmVblC3U%3D width="200" height="300">
-      </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, grandeur, and historical significance. What makes them unique is their strategic location on hilltops, which provided a natural defense against invaders. The forts also have elaborate water harvesting systems, underground tunnels, and secret passages that were used during battles. Some of the famous forts in Rajasthan include Amer Fort, Mehrangarh Fort, and Jaisalmer Fort, which are popular tourist destinations today.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/c9e4c50e-5ea3-484d-9f1b-2b6f0e0bf116.jpeg?se=2023-11-22T08%3A22%3A44Z&sp=r&sv=2022-11-02&sr=b&sig=is8GDEqY3ssKE5Da/3dhlY/yBhV/AG1jYPg%2BG1IYMOs%3D width="200" height="300">
-      </td>
-      <td>Rajasthan has over 200 forts, but only six of them are UNESCO World Heritage Sites. The forts were built between the 5th and 18th centuries and served as military bases, palaces, and administrative centers. Many of the forts have intricate carvings and paintings, and some even have secret passages and underground tunnels. The most famous forts include Amer Fort, Mehrangarh Fort, and Jaisalmer Fort.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/67365458-e082-4675-b267-c8daf6d54fcf.jpeg?se=2023-11-22T08%3A23%3A02Z&sp=r&sv=2022-11-02&sr=b&sig=qJEKa1jzQPIX0ofh0Jh2NJ4fRMV4af2uH5uYTUIbMQQ%3D width="200" height="300">
-      </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, grandeur, and historical significance. What makes them unique is their strategic location on hilltops, which provided a natural defense against invaders. The forts also have elaborate water harvesting systems, underground tunnels, and secret passages that were used during battles. Some of the famous forts in Rajasthan include Amer Fort, Mehrangarh Fort, and Jaisalmer Fort, which are popular tourist destinations today.</td>
+      <td>"Discovering hidden trails and breathtaking views that can only be reached by foot."</td>
     </tr>
   </table>
   <hr>
@@ -63,33 +246,15 @@ const preGeneratedSequence = [
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/cc368296-5d20-40e5-9791-e475b4afc8ce.jpeg?se=2023-11-22T08%3A22%3A03Z&sp=r&sv=2022-11-02&sr=b&sig=VHHmk%2B%2BTO/vGTcQBkAdzawC8iBxq0yCHfTgOx7Jxi/o%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/47f93594-8602-4060-9ba4-4717382d4000.jpeg?se=2023-11-25T11%3A09%3A30Z&sp=r&sv=2022-11-02&sr=b&sig=dK2niQXfOBgIyd0r3yNFHXbjYW9c60Quf1KnHMBBqN8%3D width="200" height="300">
       </td>
-      <td>Rajasthan is known for its magnificent forts, and one of the lesser-known facts is that many of these forts were built on hilltops to provide a strategic advantage during battles. The Kumbhalgarh Fort, for instance, is situated on a hilltop at a height of 1,100 meters, making it one of the highest forts in Rajasthan. Additionally, the Mehrangarh Fort in Jodhpur has a unique feature of having seven gates, each named after a different victory of the Rajput rulers. The forts in Rajasthan are not just architectural marvels but also hold significant historical and cultural importance.</td>
+      <td>Hiking allows you to disconnect from technology and connect with nature, providing a sense of peace and tranquility.</td>
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/478195e6-fae8-4c9e-821f-164e50816874.jpeg?se=2023-11-22T08%3A22%3A19Z&sp=r&sv=2022-11-02&sr=b&sig=c31UCFHeVFgyEGh2itGBXsFKq523EwmPJvVpKUVBEys%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/7749c29d-d2f3-489a-8853-5c1627c8bd91.jpeg?se=2023-11-25T11%3A09%3A44Z&sp=r&sv=2022-11-02&sr=b&sig=ojfc7pH6LARdIMWoE6CcpEHKv5vPheu87vPSsutbXNk%3D width="200" height="300">
       </td>
-      <td>Forts in Rajasthan are not just architectural marvels but also have a rich history of warfare, romance, and culture. One unique aspect of these forts is their strategic location on hilltops, making them difficult to conquer. The forts also have intricate designs and decorations, showcasing the artistic skills of the Rajasthani craftsmen. Many of these forts have secret passages, underground tunnels, and hidden rooms, adding to their mystique. Some forts, like the Kumbhalgarh Fort, have the second-longest wall in the world after the Great Wall of China. These forts have witnessed many battles and have been the center of power for many Rajput rulers, making them an integral part of Rajasthan's heritage.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/62f81009-c517-4ddb-8b0f-9f3717adc977.jpeg?se=2023-11-22T08%3A22%3A35Z&sp=r&sv=2022-11-02&sr=b&sig=LyXrV1xg4OjA5JJpcTB%2BmBSpY9d3%2BW4chzhxS8DTCao%3D width="200" height="300">
-      </td>
-      <td>Rajasthan is known for its magnificent forts, and one of the lesser-known facts is that many of these forts were built on hilltops to provide a strategic advantage during battles. The fort of Kumbhalgarh, for instance, is situated on a hilltop at a height of 1,100 meters, making it one of the highest forts in Rajasthan. Another interesting fact is that the fort of Jaisalmer was built entirely out of yellow sandstone, giving it a unique golden hue. These forts not only served as military strongholds but also as centers of culture and art, showcasing the rich heritage of Rajasthan.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/6d3eed5f-11ec-44ca-9b56-87b972b81a54.jpeg?se=2023-11-22T08%3A22%3A50Z&sp=r&sv=2022-11-02&sr=b&sig=bNczUFN0w6TCQQeq24tuUxXG%2B0zxPdXpo/vgKiPInqw%3D width="200" height="300">
-      </td>
-      <td>The forts in Rajasthan are known for their unique architectural style, which blends Indian and Islamic influences. They are also known for their strategic locations, built on hilltops and surrounded by walls and moats. Many of the forts have intricate carvings and decorations, including intricate jali screens and delicate frescoes. Some of the forts, such as the Amber Fort, also have underground tunnels and secret passages. The forts in Rajasthan are not just historical monuments, but also serve as cultural and tourist attractions, hosting festivals, music concerts, and other events throughout the year.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/b5937cf5-c468-4a66-8412-af90bfb699d7.jpeg?se=2023-11-22T08%3A23%3A07Z&sp=r&sv=2022-11-02&sr=b&sig=dVxLf7zhdPKAMFgC6e3cKdG5606M%2Bu0cLTARSFIZD4Y%3D width="200" height="300">
-      </td>
-      <td>Rajasthan is known for its magnificent forts that showcase the rich history and culture of the state. These forts were built by various Rajput rulers and Mughal emperors and are a testament to their architectural brilliance. Some of the most famous forts in Rajasthan include Amer Fort, Mehrangarh Fort, Jaisalmer Fort, Chittorgarh Fort, and Ranthambore Fort. These forts are not only popular tourist attractions but also serve as important historical landmarks. They offer a glimpse into the royal lifestyle of the past and are a must-visit for anyone interested in history and architecture.</td>
+      <td>Hiking can improve creativity and problem-solving skills, according to a study by the University of Utah.</td>
     </tr>
   </table>
   <hr>
@@ -99,191 +264,24 @@ const preGeneratedSequence = [
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/c1ce1d1f-2fa0-4a71-8dfa-0946eb85f374.jpeg?se=2023-11-22T08%3A18%3A34Z&sp=r&sv=2022-11-02&sr=b&sig=%2B1L9HO8cHx3%2BF8UQw7awhMVWwlPzVzIJug%2BLUu/Fzrw%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/c776711b-2ff9-4672-b69f-9b59804826b5.jpeg?se=2023-11-25T11%3A09%3A34Z&sp=r&sv=2022-11-02&sr=b&sig=l2UGYd/I/xLujouN/oTHt%2Bpw4%2Bg8lmJQJHooKUdLLls%3D width="200" height="300">
       </td>
-      <td>Rajasthan, a state in India, boasts a multitude of impressive forts that vividly reflect its rich history and architectural heritage. Among these remarkable fortresses are Amer Fort, Mehrangarh Fort, and Jaisalmer Fort, each showcasing its unique charm and historical significance.</td>
+      <td>"Nature's gym with breathtaking views and peaceful solitude."</td>
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/56842788-d149-4d3d-a35c-050f7ad6fafe.jpeg?se=2023-11-22T08%3A18%3A45Z&sp=r&sv=2022-11-02&sr=b&sig=928J4IQx4PGby/xT%2Bci%2Bt9v9Ri%2BOEVOe%2BioKeum/zjA%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/ca5be2a4-d11b-47f7-8885-d413c9ef664d.jpeg?se=2023-11-25T11%3A09%3A48Z&sp=r&sv=2022-11-02&sr=b&sig=17rkGIVHOMMDjv2448pdgCb2d7o/4A27%2BXRCknfUco4%3D width="200" height="300">
       </td>
-      <td>The enchanting state of Rajasthan in India is renowned for its wealth of majestic forts, which serve as iconic landmarks representing the grandeur of its history and architectural brilliance. Among the multitude of awe-inspiring forts that Rajasthan proudly possesses, three prominent ones stand out: Amer Fort, Mehrangarh Fort, and Jaisalmer Fort. These remarkable citadels not only epitomize the architectural marvels of their time but also offer captivating glimpses into the vibrant past of the region.</td>
+      <td>"Nature's gym with breathtaking views and peaceful solitude."</td>
     </tr>
     <tr>
       <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/0ce6ffbb-636b-4820-a045-b22ea2cf42ba.jpeg?se=2023-11-22T08%3A18%3A58Z&sp=r&sv=2022-11-02&sr=b&sig=uV8iMIiCerqNf4g5H9An/XOABuhnE3Jn8N8ljtB76/w%3D width="200" height="300">
+        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/4382b26e-6340-4d95-8905-c59dd2fdcedd.jpeg?se=2023-11-25T11%3A10%3A04Z&sp=r&sv=2022-11-02&sr=b&sig=6Iy8xmlMt84LRZALpZxfrBu/ZDSda0FWk6YMAl2x4fY%3D width="200" height="300">
       </td>
-      <td>Rajasthan, the land of kings and legends, boasts an astonishing collection of more than 200 forts, each one a testament to the state's regal history and architectural opulence. Among these impressive fortresses, the Chittorgarh Fort holds a prominent position, recognized as a UNESCO World Heritage Site and celebrated as the largest fort in India.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/1567f9d6-7225-47b7-84b2-94febbb3b4c1.jpeg?se=2023-11-22T08%3A19%3A10Z&sp=r&sv=2022-11-02&sr=b&sig=zLDpCtANoRHZbtwH7VSGjlRzKyyBDwWJR4Qknd7GW3I%3D width="200" height="300">
-      </td>
-      <td>The forts of Rajasthan, true marvels of architectural finesse, stand as testaments to the creative brilliance and engineering prowess of the eras gone by. With their intricately carved facades, ornate embellishments, and elaborate interiors, these forts showcase the artistic mastery and attention to detail that prevailed during their construction. From the delicate jharokhas (balconies) and filigree work to the grand courtyards and majestic gateways, every nook and cranny reflects the skillful craftsmanship of the artisans who crafted them.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/1900bea7-6390-4947-9c7d-9648ea02edf1.jpeg?se=2023-11-22T08%3A19%3A23Z&sp=r&sv=2022-11-02&sr=b&sig=1yPtJJV1bT9Nj5dbRlIwnZgtFq4IuahAPyEUq58Fm/U%3D width="200" height="300">
-      </td>
-      <td>The forts scattered across Rajasthan boast an architectural finesse that leaves visitors awe-struck. These architectural marvels are adorned with intricate carvings, delicate jali work (lattice screens), ornamental motifs, and meticulously crafted facades. The fusion of Rajput, Mughal, and other architectural styles creates a mesmerizing blend that showcases the artistic brilliance of the bygone era. From the soaring minarets to the grand palaces, from the elaborate courtyards to the opulent interiors, every detail within these forts speaks volumes about the skilled craftsmanship and visionary minds that brought them to life.</td>
+      <td>"Nature's gym with breathtaking views and peaceful solitude."</td>
     </tr>
   </table>
   <hr>
-  `,
-  `
-  <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/0623412a-ce7c-44d5-b5fe-5674768181ec.jpeg?se=2023-11-22T08%3A52%3A05Z&sp=r&sv=2022-11-02&sr=b&sig=9TYzaaOL7b9X3bTTP8ahQ/gW0pUumshfj6hSo2DCXBc%3D width="200" height="300">
-  <h1>Rajasthan's forts are architectural marvels with rich history.</h1>
-  <hr>
-  <table border="1">
-    <tr>
-      <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">cards</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/a27fafb3-ac37-49e0-806d-60bf0a413885.jpeg?se=2023-11-22T08%3A54%3A21Z&sp=r&sv=2022-11-02&sr=b&sig=s5dk1zC0RAzaODguW6O5dd3WY%2Btzk0nGrNuiDDa3k/Q%3D width="200" height="300">
-      </td>
-      <td>Forts in Rajasthan are known for their intricate architecture, rich history, and stunning views.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/44691323-673e-4517-ad79-6c6542df18e3.jpeg?se=2023-11-22T08%3A55%3A37Z&sp=r&sv=2022-11-02&sr=b&sig=qy3p0y6gRmux1NxSB%2BOTPJRMyC3o7FaCx13UMuqRT68%3D width="200" height="300">
-      </td>
-      <td>Rajasthan's forts are architectural marvels, showcasing the state's rich history and cultural heritage.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/6197c7d2-b410-4f8b-95a4-a9cbbb452efa.jpeg?se=2023-11-22T08%3A55%3A49Z&sp=r&sv=2022-11-02&sr=b&sig=0zHOK8l7C9Mp8TFgl%2B7EEVZzzn8tIAz03DAbusEP1hY%3D width="200" height="300">
-      </td>
-      <td>Rajasthan's forts are architectural marvels, showcasing the state's rich history and cultural heritage.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/b83fbbcd-52b7-448b-8ce2-6140dc69061b.jpeg?se=2023-11-22T08%3A56%3A05Z&sp=r&sv=2022-11-02&sr=b&sig=opjQ2vEiqlLFRXxtFVn6wwbLFt/aLWjPIaL/RyLQAJw%3D width="200" height="300">
-      </td>
-      <td>Unique Rajasthan forts feature jharokhas—overhanging balconies with intricate latticework—used by royal women for discreet observation, ventilation, and lighting. Notable examples: Amber Fort, Mehrangarh Fort, City Palace.</td>
-    </tr>
-  </table>
-  <hr>
-  <table border="1">
-    <tr>
-      <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">columns</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/c8774735-57e0-476d-9882-8e5d31f7884a.jpeg?se=2023-11-22T08%3A52%3A10Z&sp=r&sv=2022-11-02&sr=b&sig=rrnL9Mm0CJUwe7kxDvi6hp3TfKj0Wz9D7nwrg61NjAE%3D width="200" height="300">
-      </td>
-      <td>Rajasthan has over 100 forts, including the UNESCO World Heritage Site of Jaisalmer Fort and the massive Mehrangarh Fort.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/f07cda4b-32ff-43c9-a883-350462aa8116.jpeg?se=2023-11-22T08%3A52%3A23Z&sp=r&sv=2022-11-02&sr=b&sig=uie4Tw6qoBSIOYX5eSXvjn5mz%2BOe%2BXw4hBrgGUZVzZw%3D width="200" height="300">
-      </td>
-      <td>Rajasthan has over 200 forts, including the UNESCO World Heritage Site of Chittorgarh Fort, the largest fort in India.</td>
-    </tr>
-  </table>
-  <hr>
-  <table border="1">
-    <tr>
-      <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">carousel</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/82a79f78-37b4-4689-9074-a12eebdc54a0.jpeg?se=2023-11-22T12%3A15%3A27Z&sp=r&sv=2022-11-02&sr=b&sig=nG8vwthuAtjRgmnU368z0p1cySPA0AEQIRjlzhSmtDM%3D width="200" height="300">
-      </td>
-      <td>Historic, majestic, grand, fortified, regal, impressive, ornate, opulent, iconic.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/e2baef6e-f969-47c3-8853-442a17774293.jpeg?se=2023-11-22T08%3A52%3A25Z&sp=r&sv=2022-11-02&sr=b&sig=sYPAhV0Vg4UGT0edIwiLCKWyb7Uc6DpN6jU/4AiIBD4%3D width="200" height="300">
-      </td>
-      <td>Rajasthan has over 100 forts, including Amer, Mehrangarh, and Jaisalmer.</td>
-    </tr>
-    <tr>
-      <td>
-        <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/9456bd36-2ff1-452e-8d1b-a2847c310e94.jpeg?se=2023-11-22T08%3A52%3A37Z&sp=r&sv=2022-11-02&sr=b&sig=5h2AOgWkoZhH14jRuNSZJpvwkUI52HHoPUoPIi9jBlI%3D width="200" height="300">
-      </td>
-      <td>"Rajasthan forts showcase intricate architecture and rich history."</td>
-    </tr>
-  </table>
-  <hr>
-  `,
-
-  `
-  <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/1d3e9ec9-2474-4784-a9ac-21245df51c1d.jpeg?se=2023-11-22T08%3A37%3A04Z&sp=r&sv=2022-11-02&sr=b&sig=YVPE6ky9jP3BEY56AYGldKFRdyBhj58LrYulDjj2fO0%3D width="200" height="300">
-<h1>"Rajasthan forts showcase exquisite architecture and rich cultural heritage."</h1>
-<hr>
-<table border="1">
-  <tr>
-    <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">cards</td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/1ad1552a-eeb2-4bed-b341-ebbf6b2357a7.jpeg?se=2023-11-22T08%3A36%3A12Z&sp=r&sv=2022-11-02&sr=b&sig=FVjo5I5gDHzZN7MSW2kxz4OOPJwq8sNtMaRJj%2Bu2fqw%3D width="200" height="300">
-    </td>
-    <td>Rajasthan has many historic forts, including Amer Fort, Mehrangarh Fort, and Jaisalmer Fort.</td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/64afe3dc-0b3e-4310-8071-1c90ff3b57ae.jpeg?se=2023-11-22T08%3A36%3A29Z&sp=r&sv=2022-11-02&sr=b&sig=uX1Zr6lH881aNussJ2BXJMvNhXgRSvRG43T4xGN4WEY%3D width="200" height="300">
-    </td>
-    <td>Forts in Rajasthan are known for their intricate architecture, rich history, and stunning views.</td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/3c12e5b1-c53d-4997-9025-b0daeeebfc64.jpeg?se=2023-11-22T08%3A36%3A40Z&sp=r&sv=2022-11-02&sr=b&sig=czDAK6FUfPLTQ92ErexbCSnqACaBY%2BnBIkG3TRcY1mE%3D width="200" height="300">
-    </td>
-    <td>Rajasthan's forts are a testament to the state's rich history and architectural prowess.</td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/bfa81fef-7b0a-4f8a-8a61-13ecd46be97a.jpeg?se=2023-11-22T08%3A36%3A50Z&sp=r&sv=2022-11-02&sr=b&sig=rW4zlukK8VrY/ej7xIPnMYKw1%2BxQ037uuH5sK%2B6sb5s%3D width="200" height="300">
-    </td>
-    <td>One unique feature of the forts in Rajasthan is their intricate and detailed architecture, which often incorporates elements of both Hindu and Islamic styles.</td>
-  </tr>
-</table>
-<hr>
-<table border="1">
-  <tr>
-    <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">columns</td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/b8b184f2-5b97-41cb-97d4-4f40e0da7936.jpeg?se=2023-11-22T08%3A36%3A05Z&sp=r&sv=2022-11-02&sr=b&sig=hlWLI4UfRwCn9MQhykrrRLTc5EEQQMKbgfxbrLxOJMs%3D width="200" height="300">
-    </td>
-    <td>Forts in Rajasthan are known for their intricate architecture, rich history, and stunning views of the surrounding landscape.</td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/bd00ced2-ae66-40ed-aab0-cf0cd5de3c54.jpeg?se=2023-11-22T08%3A36%3A16Z&sp=r&sv=2022-11-02&sr=b&sig=dYfSYgA%2BqnfuCasEhBfCfIrFKke148TLVG3FC6VKKDw%3D width="200" height="300">
-    </td>
-    <td>Rajasthan has over 100 forts, including the UNESCO World Heritage Site of Jaisalmer Fort and the massive Mehrangarh Fort.</td>
-  </tr>
-</table>
-<hr>
-<table border="1">
-  <tr>
-    <td colspan="2" style="background-color: #ff8012; color: #ffffff;  height:23px;">carousel</td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/039267f2-d210-4997-988d-f834672b9a5b.jpeg?se=2023-11-22T08%3A36%3A08Z&sp=r&sv=2022-11-02&sr=b&sig=VwdxWDBFz6Rz1a0N4aDCnaf%2B6VDpwrPK1sKmxnvyG%2BI%3D width="200" height="300">
-    </td>
-    <td>Forts in Rajasthan are UNESCO World Heritage Sites.</td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/95e00b73-bd10-4339-b3c9-6d5f90f6e970.jpeg?se=2023-11-22T08%3A36%3A25Z&sp=r&sv=2022-11-02&sr=b&sig=vMCnrhiq5HrRrN29h3IiIEZ2DaPfjzrz4XTHkrV7Nmw%3D width="200" height="300">
-    </td>
-    <td>Rajasthan has many ancient forts with rich history.</td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" alt="" type="image/jpeg" src=https://eisdevelopmentgroupva7di.blob.core.windows.net/firefall-asset-dev/391731ab-948f-4bbc-ac21-12b0a821170e.jpeg?se=2023-11-22T08%3A36%3A35Z&sp=r&sv=2022-11-02&sr=b&sig=9zOQJPegdimE/PZ1AcgAnZYBHJXm/rxBecWq3vroTN8%3D width="200" height="300">
-    </td>
-    <td>"Rajasthan forts showcase intricate architecture and rich history."</td>
-  </tr>
-</table>
-<hr>
   `,
 ];
 
