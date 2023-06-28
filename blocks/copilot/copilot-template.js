@@ -1,9 +1,7 @@
 export default function template() {
   return `
     <div class="banner">
-        <h3>Spellweaver</h3>
-        <span><i class="fa-solid fa-flask-vial" style="color: #a20b0b;"></i></span>
-        <em>A Franklin Copilot</em>
+        <h3>Franklin Copilot</h3>
         <span><i class="fa-solid fa-flask-vial" style="color: #a20b0b;"></i></span>
     </div>
     <div class="content-wrapper">
