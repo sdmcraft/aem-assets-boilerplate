@@ -2,13 +2,13 @@
 /* eslint-disable no-console */
 import { wait } from './utils.js';
 
-const API_KEY = '64087d1089dc4308b9a3fd079ac0fab2';
+const API_KEY = 'b9b93b2bdbea482e88878d6a55eea271';
 const MAX_RETRIES = 3;
 
 async function callAzureChatCompletionAPI(conversation) {
   let retries = 0;
   console.log(`[azure-openai]Calling Azure Chat Completion API with conversation: ${JSON.stringify(conversation, null, 2)}`);
-  const AZURE_CHAT_API = `https://eastus.api.cognitive.microsoft.com/openai/deployments/satyam-oai-deployment/chat/completions?api-version=2023-03-15-preview&api-key=${API_KEY}`;
+  const AZURE_CHAT_API = `https://gen-ai-experiments.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2023-03-15-preview&api-key=${API_KEY}`;
 
   const requestOptions = {
     method: 'POST',
