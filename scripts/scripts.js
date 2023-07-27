@@ -15,6 +15,17 @@ import {
 
 const LCP_BLOCKS = []; // add your LCP blocks to the list
 
+function decoratePolarisAssets(element) {
+  const searchPattern = /adobe\/dynamicmedia\/deliver/;
+  element.querySelectorAll('a').forEach((a) => {
+    if (searchPattern.test(a.href)) {
+      const img = document.createElement('img');
+      img.src = a.href;
+      a.parentNode.replaceChild(img, a);
+    }
+  });
+}
+
 /**
  * Builds hero block and prepends to main in a new section.
  * @param {Element} main The container element
@@ -62,6 +73,7 @@ function buildAutoBlocks(main) {
 // eslint-disable-next-line import/prefer-default-export
 export function decorateMain(main) {
   // hopefully forward compatible button decoration
+  decoratePolarisAssets(main);
   decorateButtons(main);
   decorateIcons(main);
   buildAutoBlocks(main);
